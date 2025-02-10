@@ -1,5 +1,5 @@
 <div align="center">
-  # 💫 About Me:
+  💫 About Me
 <br> I'm a 27-year-old UI/UX developer with a B.Tech from KTU University (2019).  <br> I have experience in software implementation** and are now transitioning to full-stack development (MERN stack).  <br> I'm focusing on front-end development**, aiming to master React, Tailwind CSS, and GSAP.  <br> Beyond tech, I'm  into gaming, photography, and playing the guitar.  <br><br>
 
 
