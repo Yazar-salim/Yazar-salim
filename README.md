@@ -23,4 +23,6 @@
 [![](https://visitcount.itsvg.in/api?id=Yazar-salim&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+![snake gif](https://github.com/Yazar-salim/Yazar-salim/blob/output/github-snake-dark.svg)
 </div>
